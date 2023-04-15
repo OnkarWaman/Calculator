@@ -4,6 +4,6 @@
 
 ![img2](https://user-images.githubusercontent.com/90407551/209980945-6d6199ed-6b91-450c-a833-3fa1146dcf7a.jpg)
 
-NOTE: JRE is required to run **Calculator.exe** & path of JRE should be added to user variable named as **JAVA_HOME**   <br />
+NOTE: JRE is required to run **Calculator.exe** & path of JRE should be added to environment variable named as **JAVA_HOME** and **PATH** <br />
                     OR   <br />
 open the **Code** folder in Eclipse and directly run the file **Calculator.java**
